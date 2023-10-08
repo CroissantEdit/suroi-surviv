@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="173.82297"
+   height="173.41505"
+   viewBox="0 0 45.99066 45.882733"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="map-stone-01.svg"
+   inkscape:export-filename="../../../map-stone-01.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m 26.719755,1.7964581 c 3.708086,0.6245847 8.13192,2.2839843 11.573911,5.9193873 3.441991,3.6341706 5.900908,9.2455786 6.176859,15.0540926 0.277183,5.807283 -1.628601,11.810441 -5.342848,15.684837 -3.713014,3.874396 -9.233258,5.617566 -14.487407,5.894748 -5.255381,0.275951 -10.242203,-0.914086 -13.843112,-2.892554 -3.6009093,-1.978467 -5.8122103,-4.742901 -7.2190653,-7.667485 -1.406855,-2.923352 -2.008033,-6.005621 -2.078253,-9.39464 -0.06899,-3.389019 0.390519,-7.086018 1.860203,-10.35554 1.469683,-3.268291 3.942152,-6.1054083 6.389981,-8.0419903 C 12.196622,4.0607316 14.614885,3.0246848 17.318955,2.3027782 20.021793,1.5808717 23.0129,1.1718735 26.719755,1.7976901 Z"
+     fill="#b3b3b3"
+     stroke="#2d2d2d"
+     stroke-width="2.98618"
+     id="path1-0" />
+  <path
+     d="m 35.381401,17.074761 c 0.05913,3.853453 -2.375146,6.707818 -6.62651,6.707818 -4.250133,0 -8.471931,-3.085966 -7.69582,-6.707818 0.740386,-3.459238 3.597214,-6.750936 6.626511,-6.709051 5.04349,0.06776 7.645311,3.391484 7.695819,6.709051 z"
+     fill="#cacaca"
+     id="path2-2"
+     style="stroke-width:1.23192" />
+</svg>

@@ -1,6 +1,6 @@
 import { Color } from "pixi.js";
 
-export const HIDE_DEV_REGION = false;
+export const HIDE_DEV_REGION = true;
 export const UI_DEBUG_MODE = false;
 export const HITBOX_DEBUG_MODE = false;
 
